@@ -21,8 +21,7 @@
 📇 
 <br> Let's connect!
 
-<br> ✧ romaoeh@gmail.com
-<br> ✧ www.linkedin.com/in/romaoeh
-<br> ✧ www.romaoeh.myportfolio.com 
-
-<br> ---> [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b608514a378a87/Resume.pdf) <---
+<br> ✧ [Email](romaoeh@gmail.com)
+<br> ✧ [LinkedIn](www.linkedin.com/in/romaoeh)
+<br> ✧ [Creative Portfolio](www.romaoeh.myportfolio.com) 
+<br> ✧ [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b608514a378a87/Resume.pdf)
