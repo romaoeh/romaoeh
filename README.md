@@ -24,3 +24,5 @@
 <br> ✧ romaoeh@gmail.com
 <br> ✧ www.linkedin.com/in/romaoeh
 <br> ✧ www.romaoeh.myportfolio.com 
+
+<br> ---> [Resume](https://github.com/romaoeh/romaoeh/blob/b20ee02834b9f59a1777a5e856b608514a378a87/Resume.pdf) <---
