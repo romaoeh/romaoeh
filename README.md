@@ -24,4 +24,4 @@
 <br> ✧ [Email](mailto:romaoeh@gmail.com)
 <br> ✧ [LinkedIn](www.linkedin.com/in/romaoeh)
 <br> ✧ [Creative Portfolio](www.romaoeh.myportfolio.com) 
-<br> ✧ [Resume](https://github.com/romaoeh/romaoeh/blob/a2ee50db0b152e411938392f7b91870fcf560406/Resume.pdf)
+<br> ✧ [Resume](https://github.com/romaoeh/romaoeh/blob/a2ee50db0b152e411938392f7b91870fcf560406/Resume.pdf) 
