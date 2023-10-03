@@ -3,7 +3,7 @@
 
 # ROMA OEH:
 💡 
-<br>A results-oriented budding Data Analyst with a love and curiosity for marketing analysis, storytelling, identifying patterns, visualization, and data modeling. 
+<br>A results-oriented Data Analyst an Visualizer with a love and curiosity for marketing analysis, storytelling, identifying patterns, visualization, and data modeling. 
 
 📷 
 <br>Experienced Photo + Video Producer and Wardrobe + Prop Stylist with a demonstrated history of working in the media production industry. 
